@@ -1,0 +1,8 @@
+Ganador: EQUIPO 1
+Sobrevivientes del equipo ganador: 
+Josue Rodriguez| Vida restante: 37
+Leonardo Borjas| Vida restante: 7
+Erick Martinez| Vida restante: 15
+Carlos Velasquez| Vida restante: 7
+Ana Gomez| Vida restante: 19
+Richard Padgett| Vida restante: 4
